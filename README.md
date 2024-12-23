@@ -11,7 +11,6 @@ In this case I used postgres instead of mySQL
 inside project run:
 
 ```bash
-# node index.js <username>
 npm run dev
 ```
 
